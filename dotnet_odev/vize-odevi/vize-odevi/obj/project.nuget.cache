@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/p50jYEUm9SUpp5VNvDOXtfrNz2BSBr1D9tb0L7uU81C/nenAfeZoRyt/bLtbu+o9GjyI5cIWqtMaymoLuBNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Samet\\Desktop\\.net_odev-master\\dotnet_odev\\vize-odevi\\vize-odevi\\vize-odevi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Samet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
